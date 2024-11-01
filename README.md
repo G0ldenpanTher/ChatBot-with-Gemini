@@ -1,1 +1,1 @@
-# Gemini-AI-ChatBot
+# Gemini-AI-QNA-Bot
